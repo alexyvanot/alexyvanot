@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Alexy%20VANOT&textBg=false&animation=fadeIn&fontSize=70&section=header&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Alexy%20VANOT&textBg=false&animation=fadeIn&fontSize=70&section=header&reversal=false" />
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=alexyvanot&show_icons=true&theme=tokyonight"
